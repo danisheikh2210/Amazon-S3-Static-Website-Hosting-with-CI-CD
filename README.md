@@ -12,6 +12,9 @@ GitHub → AWS CodePipeline → CodeBuild → Amazon S3
 - Amazon S3 (Static Website Hosting)
 - AWS CodePipeline (CI/CD)
 - AWS CodeBuild
+- AWS CLoudFront
+- AWS Route53
+- AWS Certificate Manager
 - IAM
 
 ## 📌 Features
